@@ -1,0 +1,9 @@
+{
+  "id": "otomasyon",
+  "name": "Automation",
+  "version": "1.2",
+  "author": "Eray",
+  "description": "Checks Play Store updates (force stops and retries if the page does not open) and answers incoming calls",
+  "language": "en",
+  "minVersion": 537
+}
